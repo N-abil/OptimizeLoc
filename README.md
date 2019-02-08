@@ -1,4 +1,4 @@
-#Location Intelligence
+# Location Intelligence
 Food trucks are a staple for many people especially during lunch. They operate on a business model that depends on the location. Food truck in general, offer similar lunch options at approximately the same price, which makes it difficult for businesses to distinguish themselves from nearby competitors. The location of food trucks can therefore determine whether a company succeeds or fails.
 
 # Data
